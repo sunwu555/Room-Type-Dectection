@@ -25,7 +25,7 @@ Brief Instructions
 
 We managed the Makefile so it only use CPU for training and testing. However you can change the Makefile to use GPU and CUDNN for efficiency.
 
-3, Download the pre-trained weight file [HERE](https://drive.google.com/file/d/1wnKuEaZjyvsb1QCPlAe05B-FqaGacX35/view?usp=sharing).
+3, Download the pre-trained weight file [HERE](https://drive.google.com/file/d/1S6C9KdbjXhEOjjlhRijWjpnCoAySKu4L/view?usp=sharing).
 
 4, Run test
 
