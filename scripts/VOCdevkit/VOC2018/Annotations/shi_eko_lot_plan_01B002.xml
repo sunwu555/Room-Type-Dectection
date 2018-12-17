@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Eko_jpg</folder>
+	<filename>lot_plan_01B002.jpg</filename>
+	<path>/Users/shijialiang/Desktop/untitled folder 3/Eko_jpg/lot_plan_01B002.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3308</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SDB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1307</xmin>
+			<ymin>578</ymin>
+			<xmax>1665</xmax>
+			<ymax>963</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SDB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>903</xmin>
+			<ymin>1440</ymin>
+			<xmax>1222</xmax>
+			<ymax>1707</ymax>
+		</bndbox>
+	</object>
+</annotation>

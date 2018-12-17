@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Coeur Jardin_jpg</folder>
+	<filename>lot_plan_010B23 FRDOC2017000000000000000016235.jpg</filename>
+	<path>/Users/shijialiang/Desktop/untitled folder 3/Coeur Jardin_jpg/lot_plan_010B23 FRDOC2017000000000000000016235.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2339</width>
+		<height>1653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>SDB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>954</ymin>
+			<xmax>833</xmax>
+			<ymax>1177</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>WC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>922</xmin>
+			<ymin>1041</ymin>
+			<xmax>1095</xmax>
+			<ymax>1171</ymax>
+		</bndbox>
+	</object>
+</annotation>

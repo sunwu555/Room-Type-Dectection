@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Aura Nova_jpg</folder>
+	<filename>lot_plan_01B303.jpg</filename>
+	<path>/Users/shijialiang/Desktop/untitled folder 3/Aura Nova_jpg/lot_plan_01B303.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2339</width>
+		<height>1653</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>344</xmin>
+			<ymin>419</ymin>
+			<xmax>527</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SDB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>494</xmin>
+			<ymin>324</ymin>
+			<xmax>732</xmax>
+			<ymax>531</ymax>
+		</bndbox>
+	</object>
+</annotation>

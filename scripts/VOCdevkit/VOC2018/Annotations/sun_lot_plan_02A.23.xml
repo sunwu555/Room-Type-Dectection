@@ -1,0 +1,38 @@
+<annotation>
+	<folder>jpeg</folder>
+	<filename>lot_plan_02A.23 FRDOC2017000000000000000026518.jpg</filename>
+	<path>/home/sunwu/Desktop/EC500K1/jpeg/lot_plan_02A.23 FRDOC2017000000000000000026518.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3308</width>
+		<height>2339</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>WC</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1639</xmin>
+			<ymin>580</ymin>
+			<xmax>1785</xmax>
+			<ymax>804</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>SDB</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1792</xmin>
+			<ymin>587</ymin>
+			<xmax>2158</xmax>
+			<ymax>1009</ymax>
+		</bndbox>
+	</object>
+</annotation>
