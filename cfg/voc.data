@@ -1,0 +1,5 @@
+classes= 2
+train  = /home/sunwu/Desktop/EC500K1/darknet/scripts/2018_train.txt
+//valid  = /home/pjreddie/data/voc/2007_test.txt
+names = /home/sunwu/Desktop/EC500K1/darknet/data/voc.names
+backup = /home/sunwu/Desktop/EC500K1/darknet/backup
